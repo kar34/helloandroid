@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/pre-dexed/debug/classes-44d9392a95a14b9c633a65338e44df975d6b7893.jar" />
+    </item>
+    <item
+        jar="/Users/kennyraymond20/Desktop/Developer/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-9403b24b3780ff884afb0ee73e1e0e45b02cf79e.jar" />
+    </item>
+    <item
+        jar="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-ca664c00c0d50e46450a069c147b77a067346bdc.jar" />
+    </item>
+    <item
+        jar="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/kennyraymond20/Dropbox/School/Spring 2015/498/1/Hello/app/build/intermediates/pre-dexed/debug/classes-02544b4ecdd6f156ec9551f2a1018ab911b2e9fe.jar" />
+    </item>
+
+</items>
